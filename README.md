@@ -1,15 +1,15 @@
-JS Test for WeVat
+JSONPlaceholder React App
 
 ## How To Run The Project & Test
 
-1) cd into 'wevat'
-2) `npm install` (only once)
-3) `npm start`
+1. cd into 'jsonPlaceholder'
+2. `npm install` (only once)
+3. `npm start`
 
-To test, input various values on the first search bar (userId) or select a property and input a value from the second form group. 
+To test, input various values on the first search bar (userId) or select a property and input a value from the second form group.
 
 There are also a couple of basic tests, which can be run with `npm test`
- 
+
 ### About The Project & Technology Chosen
 
 React was chosen as the framework to work with, since it allows for a fast and easy setup of the pages requested by the tech specs as well as an easy handling of the API's responses.
@@ -26,8 +26,8 @@ Reacstrap was chosen for a speedy yet aesthetically pleasing development of the 
 
 The system is broken down to two React Components, one for the main page (Home) and the other one for posts (Post).
 
-### Improvements 
+### Improvements
 
-- The two search filters (userId and the property type) could be expanded to work in parallel. 
+- The two search filters (userId and the property type) could be expanded to work in parallel.
 - Aesthetic changes can be done, though that wasn't the scope of this test.
 - More tests can be written
