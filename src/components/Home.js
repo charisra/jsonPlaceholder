@@ -10,8 +10,7 @@ import {
   Form,
   FormGroup,
   Label,
-  Input,
-  FormText
+  Input
 } from "reactstrap";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import * as _ from "underscore";
