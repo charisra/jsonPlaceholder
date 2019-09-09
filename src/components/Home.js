@@ -10,9 +10,10 @@ import {
   Form,
   FormGroup,
   Label,
-  Input
+  Input,
+  FormText
 } from "reactstrap";
-import { BrowserRouter as Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import * as _ from "underscore";
 
 class Home extends React.Component {
